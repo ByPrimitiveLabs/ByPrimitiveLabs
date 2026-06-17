@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" fill="none" role="img" aria-label="metrics">
+  <g transform="translate(20,0)">
+      <rect width="200" height="110" rx="12" fill="#0a0c0b" stroke="#B5C6C4" stroke-opacity="0.25"/>
+      <rect width="200" height="3" rx="2" fill="#B5C6C4" opacity="0.8"><animate attributeName="width" values="0;200" dur="1.2s" begin="0.1s" fill="freeze"/></rect>
+      <text x="100" y="58" text-anchor="middle" font-family="monospace" font-weight="700" font-size="34" fill="#B5C6C4">6+</text>
+      <text x="100" y="84" text-anchor="middle" font-family="monospace" font-size="13" fill="#8a9a97">servicios</text>
+    </g>
+  <g transform="translate(240,0)">
+      <rect width="200" height="110" rx="12" fill="#0a0c0b" stroke="#B5C6C4" stroke-opacity="0.25"/>
+      <rect width="200" height="3" rx="2" fill="#B5C6C4" opacity="0.8"><animate attributeName="width" values="0;200" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+      <text x="100" y="58" text-anchor="middle" font-family="monospace" font-weight="700" font-size="34" fill="#B5C6C4">6</text>
+      <text x="100" y="84" text-anchor="middle" font-family="monospace" font-size="13" fill="#8a9a97">cursos</text>
+    </g>
+  <g transform="translate(460,0)">
+      <rect width="200" height="110" rx="12" fill="#0a0c0b" stroke="#B5C6C4" stroke-opacity="0.25"/>
+      <rect width="200" height="3" rx="2" fill="#B5C6C4" opacity="0.8"><animate attributeName="width" values="0;200" dur="1.2s" begin="0.5s" fill="freeze"/></rect>
+      <text x="100" y="58" text-anchor="middle" font-family="monospace" font-weight="700" font-size="34" fill="#B5C6C4">100%</text>
+      <text x="100" y="84" text-anchor="middle" font-family="monospace" font-size="13" fill="#8a9a97">manual + auto</text>
+    </g>
+  <g transform="translate(680,0)">
+      <rect width="200" height="110" rx="12" fill="#0a0c0b" stroke="#B5C6C4" stroke-opacity="0.25"/>
+      <rect width="200" height="3" rx="2" fill="#B5C6C4" opacity="0.8"><animate attributeName="width" values="0;200" dur="1.2s" begin="0.7s" fill="freeze"/></rect>
+      <text x="100" y="58" text-anchor="middle" font-family="monospace" font-weight="700" font-size="34" fill="#B5C6C4">24/7</text>
+      <text x="100" y="84" text-anchor="middle" font-family="monospace" font-size="13" fill="#8a9a97">respuesta</text>
+    </g>
+</svg>
