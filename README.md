@@ -1,39 +1,39 @@
 <!--
   Primitive Labs - GitHub Profile README
-  Spanish version. English version: README.en.md
+  English main version. Spanish version: README.es.md
 -->
 
 <p align="center">
   <a href="https://www.primitivelabs.io">
-    <img src="./banner.svg" alt="Primitive Labs - Ciberseguridad, pentesting y desarrollo seguro" width="100%" />
+    <img src="./banner.svg" alt="Primitive Labs - Cybersecurity, penetration testing and secure development" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol_activo-B5C6C4?style=for-the-badge&labelColor=010103" alt="Idioma seleccionado: Espanol" /></a>
-  <a href="./README.en.md"><img src="https://img.shields.io/badge/Language-English-1b1f23?style=for-the-badge&labelColor=31363f" alt="Read in English" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-1b1f23?style=for-the-badge&labelColor=31363f" alt="Leer en Espanol" /></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/Language-English_active-B5C6C4?style=for-the-badge&labelColor=010103" alt="Selected language: English" /></a>
 </p>
 
 <p align="center">
-  <sub><strong>Idioma seleccionado:</strong> Espa&ntilde;ol</sub>
+  <sub><strong>Selected language:</strong> English</sub>
 </p>
 
 <p align="center">
   <a href="https://www.primitivelabs.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=750&color=B5C6C4&center=true&vCenter=true&width=920&lines=Ciberseguridad+real+para+empresas+que+no+pueden+fallar.;Pentesting+%C2%B7+Hardening+%C2%B7+WAF+%C2%B7+DevSecOps+%C2%B7+Desarrollo+Seguro;Detectamos%2C+priorizamos+y+cerramos+riesgos+antes+del+incidente.;Construimos%2C+rompemos+y+reforzamos+productos+digitales." alt="Primitive Labs animated headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=750&color=B5C6C4&center=true&vCenter=true&width=920&lines=Real+cybersecurity+for+companies+that+cannot+afford+to+fail.;Pentesting+%C2%B7+Hardening+%C2%B7+WAF+%C2%B7+DevSecOps+%C2%B7+Secure+Development;We+detect%2C+prioritize+and+close+risk+before+the+incident.;We+build%2C+break+and+harden+digital+products." alt="Primitive Labs animated headline" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.primitivelabs.io"><img src="https://img.shields.io/badge/Web-www.primitivelabs.io-B5C6C4?style=for-the-badge&labelColor=010103" alt="Primitive Labs web" /></a>
-  <a href="mailto:info@primitivelabs.io"><img src="https://img.shields.io/badge/Contacto-info%40primitivelabs.io-010103?style=for-the-badge&labelColor=B5C6C4" alt="Email Primitive Labs" /></a>
+  <a href="https://www.primitivelabs.io"><img src="https://img.shields.io/badge/Web-www.primitivelabs.io-B5C6C4?style=for-the-badge&labelColor=010103" alt="Primitive Labs website" /></a>
+  <a href="mailto:info@primitivelabs.io"><img src="https://img.shields.io/badge/Contact-info%40primitivelabs.io-010103?style=for-the-badge&labelColor=B5C6C4" alt="Email Primitive Labs" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pentesting-OWASP_%2B_ASVS-B5C6C4?style=flat-square&labelColor=010103" alt="OWASP and ASVS" />
   <img src="https://img.shields.io/badge/Hardening-CIS_%2B_NIST-B5C6C4?style=flat-square&labelColor=010103" alt="CIS and NIST" />
-  <img src="https://img.shields.io/badge/Cumplimiento-RGPD_%2B_ISO_27001_%2B_ENS_%2B_NIS2-B5C6C4?style=flat-square&labelColor=010103" alt="Compliance" />
-  <img src="https://img.shields.io/badge/Base-Valencia_%C2%B7_Espa%C3%B1a-B5C6C4?style=flat-square&labelColor=010103" alt="Valencia, Espana" />
+  <img src="https://img.shields.io/badge/Compliance-GDPR_%2B_ISO_27001_%2B_ENS_%2B_NIS2-B5C6C4?style=flat-square&labelColor=010103" alt="Compliance" />
+  <img src="https://img.shields.io/badge/Base-Valencia_%C2%B7_Spain-B5C6C4?style=flat-square&labelColor=010103" alt="Valencia, Spain" />
 </p>
 
 <p align="center">
@@ -45,96 +45,96 @@
 <h2 align="center">Primitive Labs</h2>
 
 <p align="center">
-  <strong>Ciberseguridad, pentesting, hardening, WAF y desarrollo web seguro</strong><br />
-  para empresas que necesitan operar con confianza en Espa&ntilde;a, Europa y mercados internacionales.
+  <strong>Cybersecurity, penetration testing, hardening, WAF and secure web development</strong><br />
+  for companies that need to operate with confidence across Spain, Europe and international markets.
 </p>
 
 <p align="center">
-  <a href="https://www.primitivelabs.io"><strong>Solicitar diagn&oacute;stico de seguridad</strong></a>
+  <a href="https://www.primitivelabs.io/en"><strong>Request a security assessment</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="https://www.primitivelabs.io/es/servicios"><strong>Ver servicios</strong></a>
+  <a href="https://www.primitivelabs.io/en/services"><strong>View services</strong></a>
   &nbsp;&middot;&nbsp;
-  <a href="https://www.primitivelabs.io/es/contacto"><strong>Hablar con el equipo</strong></a>
+  <a href="https://www.primitivelabs.io/en/contact"><strong>Talk to the team</strong></a>
 </p>
 
 ---
 
-### `> posicionamiento`
+### `> positioning`
 
-**Primitive Labs protege tu negocio antes de que un atacante lo ponga a prueba.**
+**Primitive Labs protects your business before an attacker puts it to the test.**
 
-Somos una empresa de **ciberseguridad y desarrollo seguro con sede en Oliva, Valencia**, creada para organizaciones que dependen de webs, SaaS, ecommerce, servidores, APIs, correo corporativo y datos de clientes.
+We are a **cybersecurity and secure development company based in Oliva, Valencia**, built for organizations that depend on websites, SaaS products, ecommerce, servers, APIs, corporate email and customer data.
 
-No vendemos ruido, miedo ni informes imposibles de accionar. Entregamos **claridad t&eacute;cnica, prioridades reales y remediaci&oacute;n aplicable**: qu&eacute; falla, por qu&eacute; importa, c&oacute;mo se corrige y qu&eacute; evidencia demuestra que el riesgo se ha reducido.
+We do not sell noise, fear or reports that cannot be acted on. We deliver **technical clarity, real priorities and applicable remediation**: what fails, why it matters, how to fix it and which evidence proves the risk has been reduced.
 
-> La seguridad no deber&iacute;a ser un PDF bonito despu&eacute;s del susto. Deber&iacute;a ser una ventaja operativa antes del incidente.
+> Security should not be a polished PDF after the damage. It should be an operational advantage before the incident.
 
 ---
 
-### `> lo_que_hacemos`
+### `> what_we_do`
 
 <p align="center">
   <img src="./div-services.svg" alt="Primitive Labs services divider" width="82%" />
 </p>
 
-| &Aacute;rea | Resultado para tu empresa |
+| Area | Business outcome |
 |:---|:---|
-| **Pentesting web y API** | Encontramos vulnerabilidades explotables antes de que afecten a clientes, datos o continuidad. |
-| **Auditor&iacute;as OWASP** | Evaluaci&oacute;n contra OWASP Top 10, OWASP API Security, ASVS, PTES y CVSS con evidencias claras. |
-| **Hardening de servidores** | Bastionado de Linux, Windows, Nginx, Apache, SSH, Docker, backups, cabeceras y superficie expuesta. |
-| **Protecci&oacute;n Web / WAF** | Defensa frente a abuso, DDoS, bots, inyecciones, fugas y patrones de ataque frecuentes. |
-| **Desarrollo web seguro** | Webs, SaaS, dashboards y APIs con seguridad desde arquitectura, permisos, validaci&oacute;n, rendimiento y despliegue. |
-| **DevSecOps y automatizaci&oacute;n** | CI/CD, scripts, integraciones y flujos trazables para reducir errores humanos y deuda operativa. |
-| **Respuesta ante incidentes** | Contenci&oacute;n, an&aacute;lisis, recuperaci&oacute;n y plan de endurecimiento cuando ya existe una amenaza activa. |
-| **Consultor&iacute;a y cumplimiento** | Controles t&eacute;cnicos, evidencias y hoja de ruta para RGPD, ISO 27001, ENS, NIS2 y requisitos de proveedores. |
+| **Web and API pentesting** | We find exploitable vulnerabilities before they affect customers, data or business continuity. |
+| **OWASP audits** | Assessment against OWASP Top 10, OWASP API Security, ASVS, PTES and CVSS with clear evidence. |
+| **Server hardening** | Linux, Windows, Nginx, Apache, SSH, Docker, backups, security headers and exposed surface reduction. |
+| **Web protection / WAF** | Defense against abuse, DDoS, bots, injections, leaks and common attack patterns. |
+| **Secure web development** | Websites, SaaS, dashboards and APIs with security across architecture, permissions, validation, performance and deployment. |
+| **DevSecOps and automation** | CI/CD, scripts, integrations and traceable workflows to reduce human error and operational debt. |
+| **Incident response** | Containment, analysis, recovery and hardening plans when an active threat already exists. |
+| **Consulting and compliance** | Technical controls, evidence and roadmaps for GDPR, ISO 27001, ENS, NIS2 and supplier requirements. |
 
 ---
 
-### `> por_que_primitivelabs`
+### `> why_primitivelabs`
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>Seguridad + desarrollo</h3>
-      <p>Detectamos fallos, pero tambi&eacute;n sabemos corregir arquitectura, backend, frontend, APIs, servidores, CI/CD y rendimiento.</p>
+      <h3>Security + development</h3>
+      <p>We find weaknesses, but we also know how to fix architecture, backend, frontend, APIs, servers, CI/CD and performance.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Informes accionables</h3>
-      <p>Direcci&oacute;n entiende impacto. El equipo t&eacute;cnico entiende soluci&oacute;n. Priorizamos por criticidad, explotabilidad y negocio.</p>
+      <h3>Actionable reports</h3>
+      <p>Leadership understands impact. Technical teams understand remediation. We prioritize by severity, exploitability and business risk.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Visi&oacute;n ofensiva</h3>
-      <p>Pensamos como un atacante, trabajamos como un partner t&eacute;cnico y documentamos como exige una empresa seria.</p>
+      <h3>Offensive mindset</h3>
+      <p>We think like attackers, work like a technical partner and document like a serious company requires.</p>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>Remediaci&oacute;n clara</h3>
-      <p>No dejamos al cliente con una lista de problemas. Creamos una hoja de ruta para cerrar riesgo con orden.</p>
+      <h3>Clear remediation</h3>
+      <p>We do not leave clients with a list of problems. We build an ordered roadmap to close risk.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Metodolog&iacute;as reconocibles</h3>
-      <p>OWASP, MITRE ATT&amp;CK, CIS Benchmarks, NIST, CVSS y buenas pr&aacute;cticas de producci&oacute;n como lenguaje com&uacute;n.</p>
+      <h3>Recognized methodologies</h3>
+      <p>OWASP, MITRE ATT&amp;CK, CIS Benchmarks, NIST, CVSS and production best practices as a shared language.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Alcance internacional</h3>
-      <p>Base en Valencia, ejecuci&oacute;n remota y comunicaci&oacute;n en ES/EN para proyectos en Espa&ntilde;a, Europa y mercados globales.</p>
+      <h3>International reach</h3>
+      <p>Based in Valencia, remote delivery and ES/EN communication for projects in Spain, Europe and global markets.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### `> metodologia`
+### `> methodology`
 
 ```mermaid
 flowchart LR
-  A[Reconocimiento] --> B[Analisis de superficie]
-  B --> C[Pruebas manuales y automatizadas]
-  C --> D[Validacion de impacto]
-  D --> E[Informe ejecutivo y tecnico]
-  E --> F[Remediacion priorizada]
-  F --> G[Retest y evidencias]
+  A[Reconnaissance] --> B[Attack surface analysis]
+  B --> C[Manual and automated testing]
+  C --> D[Impact validation]
+  D --> E[Executive and technical report]
+  E --> F[Prioritized remediation]
+  F --> G[Retest and evidence]
 ```
 
 <p align="center">
@@ -143,7 +143,7 @@ flowchart LR
 
 ---
 
-### `> stack_operativo`
+### `> operating_stack`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
@@ -163,20 +163,20 @@ flowchart LR
 
 ---
 
-### `> para_quien`
+### `> who_we_help`
 
-| Perfil | C&oacute;mo ayudamos |
+| Profile | How we help |
 |:---|:---|
-| **Pymes sin equipo interno de seguridad** | Convertimos la seguridad en acciones concretas: MFA, backups, WAF, hardening, actualizaciones, formaci&oacute;n y revisi&oacute;n de servicios expuestos. |
-| **SaaS, ecommerce y plataformas digitales** | Protegemos autenticaci&oacute;n, permisos, APIs, pagos, datos de clientes, despliegues y rendimiento. |
-| **Empresas con auditor&iacute;as o proveedores exigentes** | Preparamos evidencias, controles t&eacute;cnicos y documentaci&oacute;n para responder a requisitos de seguridad y cumplimiento. |
-| **Equipos que han sufrido un incidente** | Contenemos, analizamos, recuperamos y reforzamos para que el mismo vector no vuelva a entrar. |
+| **SMBs without an internal security team** | We turn security into concrete actions: MFA, backups, WAF, hardening, updates, training and exposed-service reviews. |
+| **SaaS, ecommerce and digital platforms** | We protect authentication, permissions, APIs, payments, customer data, deployments and performance. |
+| **Companies facing audits or demanding suppliers** | We prepare evidence, technical controls and documentation to answer security and compliance requirements. |
+| **Teams that have suffered an incident** | We contain, analyze, recover and harden so the same vector does not get in again. |
 
 ---
 
-### `> repositorios`
+### `> repositories`
 
-Este GitHub es nuestro laboratorio p&uacute;blico: herramientas, pruebas, recursos, automatizaciones, investigaci&oacute;n aplicada y componentes que reflejan nuestra forma de trabajar.
+This GitHub is our public lab: tools, tests, resources, automations, applied research and components that reflect how we work.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ByPrimitiveLabs&show_icons=true&hide_border=true&bg_color=010103&title_color=B5C6C4&icon_color=B5C6C4&text_color=eef4f1" alt="Primitive Labs GitHub stats" />
@@ -188,27 +188,27 @@ Este GitHub es nuestro laboratorio p&uacute;blico: herramientas, pruebas, recurs
 </p>
 
 <p align="center">
-  <sub>Nota: si este README se usa en una organizaci&oacute;n, algunas tarjetas p&uacute;blicas de GitHub pueden depender de la disponibilidad de APIs externas.</sub>
+  <sub>Note: if this README is used in an organization, some public GitHub cards may depend on external API availability.</sub>
 </p>
 
 ---
 
-<h2 align="center">Tu web, API o servidor deber&iacute;an resistir una prueba real.</h2>
+<h2 align="center">Your website, API or server should withstand a real test.</h2>
 
 <p align="center">
-  <strong>Hablemos antes de que lo haga un atacante.</strong>
+  <strong>Talk to us before an attacker does.</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.primitivelabs.io/es/contacto">
-    <img src="https://img.shields.io/badge/Solicitar_diagnostico_de_seguridad-www.primitivelabs.io-010103?style=for-the-badge&labelColor=B5C6C4" alt="Solicitar diagnostico de seguridad" />
+  <a href="https://www.primitivelabs.io/en/contact">
+    <img src="https://img.shields.io/badge/Request_a_security_assessment-www.primitivelabs.io-010103?style=for-the-badge&labelColor=B5C6C4" alt="Request a security assessment" />
   </a>
 </p>
 
 <p align="center">
   <strong>Primitive Labs</strong><br />
-  Ciberseguridad, pentesting y desarrollo seguro<br />
-  Passeig Joan Fuster 3, Entresuelo Dcha. Oliva, Valencia, Espa&ntilde;a<br />
+  Cybersecurity, penetration testing and secure development<br />
+  Passeig Joan Fuster 3, Entresuelo Dcha. Oliva, Valencia, Spain<br />
   <a href="https://www.primitivelabs.io">www.primitivelabs.io</a> &middot; <a href="mailto:info@primitivelabs.io">info@primitivelabs.io</a>
 </p>
 
